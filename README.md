@@ -10,6 +10,6 @@ const KoLoSkI = {
   challenge: "I am strenghtening my JavaScript skills"
   
   
-  funFacts: ['I have 1+ years of work experience with Unity' 
+  funFacts: ['I have 1+ years of work experience with Unity'] 
   
 }
