@@ -11,6 +11,6 @@ const KoLoSkI = {
  
   funFacts: ['I have 1+ years of work experience with Unity'] 
   
-  Linkedin: [Linkedin](https://www.linkedin.com/in/igor-koloski-a754aa208/)
+  Linkedin: [Linkedin](https://www.linkedin.com/in/igor-koloski/)
   
 }
