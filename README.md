@@ -8,8 +8,9 @@ const KoLoSkI = {
   askMeAbout: [Football, Chess, Kayak, Sci-fi movies]
   
   challenge: "I am strenghtening my JavaScript skills"
-  
-  
+ 
   funFacts: ['I have 1+ years of work experience with Unity'] 
+  
+  Linkedin: [Linkedin](https://www.linkedin.com/in/igor-koloski-a754aa208/)
   
 }
