@@ -1,5 +1,5 @@
-const KoLoSkI = { 
- 
+const KoLoSkI = {
+
   lookingFor: "Front-end developer" || "Full-stack web developer",
   pronouns: ["he", "his"],
   
@@ -12,5 +12,5 @@ const KoLoSkI = {
   funFacts: ['I have 1+ years of work experience with Unity'] 
   
   Linkedin: [Linkedin](https://www.linkedin.com/in/igor-koloski/)
-   
+  
 }
