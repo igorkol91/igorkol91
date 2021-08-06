@@ -13,4 +13,4 @@ const KoLoSkI = {
   
   Linkedin: [Linkedin](https://www.linkedin.com/in/igor-koloski/)
   
-}
+}  
