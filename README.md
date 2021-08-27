@@ -10,5 +10,7 @@ const KoLoSkI = {
   challenge: "I am strengthening my JavaScript skills"
   
   Linkedin: [Linkedin](https://www.linkedin.com/in/igor-koloski/)
+  
+  Portfolio: [Link](https://igorkol91.github.io/MyPortfolio/)
    
 }  
