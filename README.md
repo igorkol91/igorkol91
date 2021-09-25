@@ -10,5 +10,5 @@ const KoLoSkI = {
   challenge: "I am strengthening my React skills"
   
   Linkedin: [Linkedin](https://www.linkedin.com/in/igor-koloski/)
-   
+  
 }  
