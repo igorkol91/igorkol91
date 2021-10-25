@@ -7,7 +7,7 @@ const KoLoSkI = {
    
   askMeAbout: [Football, Chess, Kayak, Sci-fi movies]
   
-  challenge: "I am strengthening my React skills"
+  challenge: "I am strengthening my Rails skills"
   
   Linkedin: [Linkedin](https://www.linkedin.com/in/igor-koloski/)
   
