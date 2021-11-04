@@ -10,6 +10,6 @@ const KoLoSkI = {
   challenge: "I am strengthening my Rails skills" 
   
   Linkedin: [Linkedin](https://www.linkedin.com/in/igor-koloski/)
-
+  
 }  
  
