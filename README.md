@@ -9,8 +9,12 @@ const KoLoSkI = {
   
   challenge: "I am strengthening my Rails skills"
 
-  [Linkedin](https://www.linkedin.com/in/igor-koloski/)
+  Linkedin: [Linkedin](https://www.linkedin.com/in/igor-koloski/)
   
-  [Portfolio](https://igorkol91.github.io/MyPortfolio/)
+  Angellist: [Angellist](https://angel.co/u/igor-koloski)
+  
+  Portfolio: [Portfolio](https://igorkol91.github.io/MyPortfolio/)
+  
+ 
      
 }
