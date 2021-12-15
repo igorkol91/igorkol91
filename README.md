@@ -1,5 +1,5 @@
 const KoLoSkI = { 
-
+      
   lookingFor: "Front-end developer" || "Full-stack web developer",
   pronouns: ["he", "his"],
   
