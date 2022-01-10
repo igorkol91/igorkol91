@@ -16,4 +16,3 @@ const KoLoSkI = {
   Portfolio: [Portfolio](https://igorkol91.github.io/MyPortfolio/)    
   
   }
-
