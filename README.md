@@ -15,6 +15,4 @@ const KoLoSkI = {
       
   [Portfolio](https://igorkol91.github.io/MyPortfolio/)    
   
-  }
-
-I'm currently working on BitBucket.
+}
