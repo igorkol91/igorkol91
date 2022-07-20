@@ -8,6 +8,8 @@ const KoLoSkI = {
   askMeAbout: [Football, Chess, Kayak, Sci-fi movies]
 
   challenge: "I am strengthening my Rails skills"
+  
+  job: "Currently working as SFCC developer at Dept"
 
   [Linkedin](https://www.linkedin.com/in/igor-koloski/)  
   
