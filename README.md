@@ -1,7 +1,6 @@
 const KoLoSkI = { 
       
-  lookingFor: "Front-end developer" || "Full-stack web developer",
-  pronouns: ["he", "his"],
+  lookingFor: "Front-end developer" || "Full-stack web developer"
   
   code: [JavaScript,TypeScript, React, Redux, Ruby, Ruby on Rails, HTML/CSS, Bootstrap]
    
